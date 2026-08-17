@@ -1,0 +1,21 @@
+# Compiled binaries (Makefile targets)
+vectorAdd
+vectorAddEmpty
+imageBlurGPU
+imageBlurGPUEmpty
+simpleCNNGPU
+simpleCNNGPUEmpty
+simpleCNNBatchGPU
+simpleCNNBatchGPUEmpty
+simpleCNNBatchLoweringGPUEmpty
+simpleCNNBatchTilingGPUEmpty
+simpleCNNBatchTilingSharedMemGPUEmpty
+largeConvolutionLayerGPUEmpty
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.a
